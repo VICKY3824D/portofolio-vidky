@@ -44,7 +44,7 @@ export default function Home() {
         </section>
 
         <section id="proyek" className="wrap sec">
-          <h2>Proyek</h2>
+          <h2>Real Project</h2>
           {projects.map((p) => (
             <article className="proj" key={p.name}>
               <div className="proj-text">

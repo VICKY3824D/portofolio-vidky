@@ -2,9 +2,9 @@
 
 export const profile = {
   name: "Vidky Adhi Pradana",
-  role: "Fullstack Developer dan Project Manager",
+  role: "Fullstack Developer + Project Manager",
   intro:
-    "Saya membangun sistem web yang menggantikan kertas dan spreadsheet: dari absensi 600+ anggota sampai aplikasi internal LSP UGM yang memangkas kerja admin sekitar 60%. Lulusan D4 Teknologi Rekayasa Perangkat Lunak UGM, berbasis di Wonogiri.",
+    "Seorang mahasiswa semester 5 Teknologi Rekayasa Perangkat Lunak UGM yang telah memiliki pengalaman di bidang IT khususnya software engineering lebih dari 3 tahun.  Memiliki Skill yang cukup banyak mulai dari dari Frontend, Backend, Database, DevOps, hingga AI tools. Berpengalaman mengembangkan aplikasi web internal maupun publik, baik untuk organisasi, bisnis dan juga lembaga.",
   email: "vickypradana1111@gmail.com",
   github: "https://github.com/VICKY3824D",
   linkedin: "https://www.linkedin.com/in/vidky-adhi-pradana-658063244/",
